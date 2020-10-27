@@ -1,0 +1,20 @@
+{
+    "Author": "Windows Azure Product Team Scripts",
+    "ContentSize": 7846,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/analyze-windows-azure-website-application-logs-using-transient-hdinsight-cluster/master/Measure-WebSiteMetrics.ps1",
+    "DownloadCount": 2132,
+    "Id": "Analyses-Windows-Azure-web-0b27d413",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 226,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2013-12-20T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Analyze Windows Azure Website application logs using transient HDInsight cluster.",
+    "Title": "Analyze Windows Azure Website application logs using transient HDInsight cluster",
+    "UpdatedDate": "2014-10-16T00:00:00",
+    "Url": "https://github.com/azureautomation/analyze-windows-azure-website-application-logs-using-transient-hdinsight-cluster",
+    "UserTags": "Monitoring, Remediation"
+}
